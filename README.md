@@ -19,3 +19,5 @@ AES-256 encryption for file security.
 Simple graphical interface using Tkinter.
 Encrypt or decrypt any file.
 Password-based key derivation (PBKDF2).
+##OUTPUT
+https://github.com/user-attachments/assets/6d45e92c-daa2-487e-bbf9-f75d6bd25150
