@@ -5,7 +5,7 @@ INTERN ID-CT04DG2517
 DOMAIN- CYBER SECURITY AND ETHICAL HACKING 
 DURATION-4 WEEKS
 MENTOR-NEELA SANTOSH
-##description:-This tool allows users to encrypt and decrypt files using AES-256 (Advanced Encryption Standard). The AES algorithm is highly secure and widely used in industry for protecting sensitive data.
+##DESCRIPTION:-This tool allows users to encrypt and decrypt files using AES-256 (Advanced Encryption Standard). The AES algorithm is highly secure and widely used in industry for protecting sensitive data.
 
 🛠 Technologies Used:
 
